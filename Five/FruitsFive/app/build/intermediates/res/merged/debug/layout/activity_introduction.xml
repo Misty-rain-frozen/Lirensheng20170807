@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome"
+    tools:context="com.five.fruits.IntroductionActivity">
+    <Button android:textSize="15.0dip"
+            android:textColor="@color/colorAccent"
+            android:gravity="center"
+            android:id="@+id/jump"
+            android:background="@drawable/jump"
+            android:layout_width="70.0dip"
+            android:layout_height="40.0dip"
+            android:layout_marginTop="15.0dip"
+            android:layout_marginRight="11.0dip"
+            android:text="跳过"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true" />
+</RelativeLayout>

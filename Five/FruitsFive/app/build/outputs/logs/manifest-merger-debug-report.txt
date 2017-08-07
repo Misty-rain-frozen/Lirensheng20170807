@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\жсндаа\.android\build-cache\f50bd4861408d0de9b8c30a460cfe102be47ea9b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\жсндаа\.android\build-cache\d1d3653a5a697ea9dbf96012f4f710945edf198b\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\жсндаа\.android\build-cache\e8377bcf92a6f5bc7a57759a850d44846040cbce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\жсндаа\.android\build-cache\e21d9eb4a1ab51e25bc9dae1109c79384a7d97c1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\жсндаа\.android\build-cache\d83ec1942ca16f469e1143ab8ec45c8424fad65c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\жсндаа\.android\build-cache\9299b1331b2f92af96dba9eab51c09419c0ce114\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\жсндаа\.android\build-cache\78b7ec82196516410b68e22d750beec86f217f58\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\жсндаа\.android\build-cache\40f405607fa5fc3dd953b352367306b802e0bfcc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\жсндаа\.android\build-cache\3157c8c640ac22d868f1aef1c8551f6495e99b33\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\жсндаа\.android\build-cache\ae8a8f4326d8d715eaeaf2832b5eb1f21b6c4994\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\жсндаа\.android\build-cache\2dd93a84646446c23ee64d3e3fd56037eee0deef\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.fruitsfive.MainActivity
+ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.example.fruitsfive.IntroductionActivity
+ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:14:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\жсндаа\.android\build-cache\f50bd4861408d0de9b8c30a460cfe102be47ea9b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.0] C:\Users\жсндаа\.android\build-cache\492d1aa8be6379b71c017019a8dfebec33f78ce6\output\AndroidManifest.xml:5:5-43
+MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\жсндаа\.android\build-cache\d1d3653a5a697ea9dbf96012f4f710945edf198b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\жсндаа\.android\build-cache\e8377bcf92a6f5bc7a57759a850d44846040cbce\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\жсндаа\.android\build-cache\e21d9eb4a1ab51e25bc9dae1109c79384a7d97c1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\жсндаа\.android\build-cache\d83ec1942ca16f469e1143ab8ec45c8424fad65c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\жсндаа\.android\build-cache\9299b1331b2f92af96dba9eab51c09419c0ce114\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\жсндаа\.android\build-cache\78b7ec82196516410b68e22d750beec86f217f58\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\жсндаа\.android\build-cache\40f405607fa5fc3dd953b352367306b802e0bfcc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\жсндаа\.android\build-cache\3157c8c640ac22d868f1aef1c8551f6495e99b33\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\жсндаа\.android\build-cache\ae8a8f4326d8d715eaeaf2832b5eb1f21b6c4994\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\жсндаа\.android\build-cache\2dd93a84646446c23ee64d3e3fd56037eee0deef\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\жсндаа\.android\build-cache\e8377bcf92a6f5bc7a57759a850d44846040cbce\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Five\FruitsFive\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\жсндаа\.android\build-cache\e8377bcf92a6f5bc7a57759a850d44846040cbce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\жсндаа\.android\build-cache\e21d9eb4a1ab51e25bc9dae1109c79384a7d97c1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\жсндаа\.android\build-cache\d83ec1942ca16f469e1143ab8ec45c8424fad65c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\жсндаа\.android\build-cache\9299b1331b2f92af96dba9eab51c09419c0ce114\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\жсндаа\.android\build-cache\78b7ec82196516410b68e22d750beec86f217f58\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\жсндаа\.android\build-cache\40f405607fa5fc3dd953b352367306b802e0bfcc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\жсндаа\.android\build-cache\3157c8c640ac22d868f1aef1c8551f6495e99b33\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\жсндаа\.android\build-cache\ae8a8f4326d8d715eaeaf2832b5eb1f21b6c4994\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\жсндаа\.android\build-cache\2dd93a84646446c23ee64d3e3fd56037eee0deef\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\жсндаа\.android\build-cache\e8377bcf92a6f5bc7a57759a850d44846040cbce\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\жсндаа\.android\build-cache\e8377bcf92a6f5bc7a57759a850d44846040cbce\output\AndroidManifest.xml:26:9-47

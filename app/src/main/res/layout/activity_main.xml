@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:Bar="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.l.lirensheng20170807.MainActivity">
+
+    <com.example.l.lirensheng20170807.TopBar
+        android:id="@+id/Top"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        Bar:leftTextColor="#fff"
+        Bar:leftBackground="@drawable/btn_color"
+        Bar:leftText="返回"
+        Bar:rightTextColor="#fff"
+        Bar:rightBackground="@drawable/btn_color"
+        Bar:rightText="更多"
+        Bar:topTitle="自定义标题"
+        Bar:titleTextSize="18sp"
+        Bar:titleTextColor="#000"
+        Bar:titleBackground="@color/titleback"></com.example.l.lirensheng20170807.TopBar>
+
+</RelativeLayout>
